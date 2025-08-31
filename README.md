@@ -21,6 +21,5 @@ Install pygame with:
 ```bash
 pip install pygame
 
-git clone https://github.com/YOUR-USERNAME/snake-game.git
-cd snake-game
-python snake_game.py
+git clone https://github.com/RKanishk/snake-game.git
+python main.py
